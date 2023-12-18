@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="kMeans">
+    <entry key="dimensions" type="xint" value="20"/>
+    <entry key="ignoredColumns" type="xint" value="18"/>
+    <config key="clusterCoverage">
+        <entry key="array-size" type="xint" value="4"/>
+        <entry key="0" type="xint" value="7057"/>
+        <entry key="1" type="xint" value="2458"/>
+        <entry key="2" type="xint" value="3829"/>
+        <entry key="3" type="xint" value="5764"/>
+    </config>
+    <config key="kMeansCluster0">
+        <entry key="array-size" type="xint" value="2"/>
+        <entry key="0" type="xdouble" value="58.53167068159274"/>
+        <entry key="1" type="xdouble" value="1528.1125123990364"/>
+    </config>
+    <config key="kMeansCluster1">
+        <entry key="array-size" type="xint" value="2"/>
+        <entry key="0" type="xdouble" value="62.80105777054516"/>
+        <entry key="1" type="xdouble" value="2147.1147274206674"/>
+    </config>
+    <config key="kMeansCluster2">
+        <entry key="array-size" type="xint" value="2"/>
+        <entry key="0" type="xdouble" value="53.20396970488378"/>
+        <entry key="1" type="xdouble" value="1256.9566466440324"/>
+    </config>
+    <config key="kMeansCluster3">
+        <entry key="array-size" type="xint" value="2"/>
+        <entry key="0" type="xdouble" value="62.42817487855656"/>
+        <entry key="1" type="xdouble" value="1802.2947605829286"/>
+    </config>
+    <config key="FeatureNames">
+        <entry key="array-size" type="xint" value="20"/>
+        <entry key="0" type="xstring" value="turns"/>
+        <entry key="1" type="xstring" value="winner_rating"/>
+        <entry key="2" type="xstring" isnull="true" value=""/>
+        <entry key="3" type="xstring" isnull="true" value=""/>
+        <entry key="4" type="xstring" isnull="true" value=""/>
+        <entry key="5" type="xstring" isnull="true" value=""/>
+        <entry key="6" type="xstring" isnull="true" value=""/>
+        <entry key="7" type="xstring" isnull="true" value=""/>
+        <entry key="8" type="xstring" isnull="true" value=""/>
+        <entry key="9" type="xstring" isnull="true" value=""/>
+        <entry key="10" type="xstring" isnull="true" value=""/>
+        <entry key="11" type="xstring" isnull="true" value=""/>
+        <entry key="12" type="xstring" isnull="true" value=""/>
+        <entry key="13" type="xstring" isnull="true" value=""/>
+        <entry key="14" type="xstring" isnull="true" value=""/>
+        <entry key="15" type="xstring" isnull="true" value=""/>
+        <entry key="16" type="xstring" isnull="true" value=""/>
+        <entry key="17" type="xstring" isnull="true" value=""/>
+        <entry key="18" type="xstring" isnull="true" value=""/>
+        <entry key="19" type="xstring" isnull="true" value=""/>
+    </config>
+</config>

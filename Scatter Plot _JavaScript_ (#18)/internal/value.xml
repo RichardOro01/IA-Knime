@@ -3,7 +3,7 @@
     <entry key="chartTitle" type="xstring" value=""/>
     <entry key="chartSubtitle" type="xstring" value=""/>
     <entry key="xCol" type="xstring" value="white_rating"/>
-    <entry key="yCol" type="xstring" value="turns"/>
+    <entry key="yCol" type="xstring" value="black_rating"/>
     <entry key="xAxisLabel" type="xstring" value=""/>
     <entry key="yAxisLabel" type="xstring" value=""/>
     <entry key="xAxisMin" type="xstring" isnull="true" value=""/>

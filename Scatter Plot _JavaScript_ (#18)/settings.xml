@@ -33,7 +33,7 @@
         <entry key="chartTitle" type="xstring" value=""/>
         <entry key="chartSubtitle" type="xstring" value=""/>
         <entry key="xCol" type="xstring" value="white_rating"/>
-        <entry key="yCol" type="xstring" value="turns"/>
+        <entry key="yCol" type="xstring" value="black_rating"/>
         <entry key="maxRows" type="xint" value="2500"/>
         <entry key="selectionColumnName" type="xstring" value="Selected (Scatter Plot)"/>
         <entry key="xAxisLabel" type="xstring" value=""/>
@@ -140,6 +140,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="967c1c4c-e484-4d79-853d-c889c84d00ec"/>
+        <entry key="file_store_id" type="xstring" value="c9dc7ff2-9246-4d45-977a-5d5e50543478"/>
     </config>
 </config>

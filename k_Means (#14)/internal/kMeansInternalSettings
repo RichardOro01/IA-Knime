@@ -1,36 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="kMeans">
     <entry key="dimensions" type="xint" value="16"/>
-    <entry key="ignoredColumns" type="xint" value="13"/>
+    <entry key="ignoredColumns" type="xint" value="14"/>
     <config key="clusterCoverage">
         <entry key="array-size" type="xint" value="3"/>
-        <entry key="0" type="xint" value="8786"/>
-        <entry key="1" type="xint" value="4998"/>
-        <entry key="2" type="xint" value="6274"/>
+        <entry key="0" type="xint" value="8788"/>
+        <entry key="1" type="xint" value="5007"/>
+        <entry key="2" type="xint" value="6263"/>
     </config>
     <config key="kMeansCluster0">
-        <entry key="array-size" type="xint" value="3"/>
-        <entry key="0" type="xdouble" value="61.70680628272251"/>
-        <entry key="1" type="xdouble" value="1603.6364671067608"/>
-        <entry key="2" type="xdouble" value="1593.4279535624858"/>
+        <entry key="array-size" type="xint" value="2"/>
+        <entry key="0" type="xdouble" value="1603.3020027309967"/>
+        <entry key="1" type="xdouble" value="1593.0393718707328"/>
     </config>
     <config key="kMeansCluster1">
-        <entry key="array-size" type="xint" value="3"/>
-        <entry key="0" type="xdouble" value="67.12364945978392"/>
-        <entry key="1" type="xdouble" value="1948.4103641456581"/>
-        <entry key="2" type="xdouble" value="1942.2306922769108"/>
+        <entry key="array-size" type="xint" value="2"/>
+        <entry key="0" type="xdouble" value="1948.0281605751948"/>
+        <entry key="1" type="xdouble" value="1941.9884162172957"/>
     </config>
     <config key="kMeansCluster2">
-        <entry key="array-size" type="xint" value="3"/>
-        <entry key="0" type="xdouble" value="53.424768887472105"/>
-        <entry key="1" type="xdouble" value="1306.5886197003506"/>
-        <entry key="2" type="xdouble" value="1300.8710551482309"/>
+        <entry key="array-size" type="xint" value="2"/>
+        <entry key="0" type="xdouble" value="1306.3463196551174"/>
+        <entry key="1" type="xdouble" value="1300.594922561073"/>
     </config>
     <config key="FeatureNames">
         <entry key="array-size" type="xint" value="16"/>
-        <entry key="0" type="xstring" value="turns"/>
-        <entry key="1" type="xstring" value="white_rating"/>
-        <entry key="2" type="xstring" value="black_rating"/>
+        <entry key="0" type="xstring" value="white_rating"/>
+        <entry key="1" type="xstring" value="black_rating"/>
+        <entry key="2" type="xstring" isnull="true" value=""/>
         <entry key="3" type="xstring" isnull="true" value=""/>
         <entry key="4" type="xstring" isnull="true" value=""/>
         <entry key="5" type="xstring" isnull="true" value=""/>

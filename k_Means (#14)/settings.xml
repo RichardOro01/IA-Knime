@@ -33,14 +33,14 @@
         </config>
         <config key="cfgColmns">
             <config key="InclList">
-                <entry key="array-size" type="xint" value="3"/>
-                <entry key="0" type="xstring" value="turns"/>
-                <entry key="1" type="xstring" value="white_rating"/>
-                <entry key="2" type="xstring" value="black_rating"/>
+                <entry key="array-size" type="xint" value="2"/>
+                <entry key="0" type="xstring" value="white_rating"/>
+                <entry key="1" type="xstring" value="black_rating"/>
             </config>
             <config key="ExclList">
-                <entry key="array-size" type="xint" value="1"/>
-                <entry key="0" type="xstring" value="opening_ply"/>
+                <entry key="array-size" type="xint" value="2"/>
+                <entry key="0" type="xstring" value="turns"/>
+                <entry key="1" type="xstring" value="opening_ply"/>
             </config>
             <entry key="keep_all_columns_selected" type="xboolean" value="false"/>
         </config>
@@ -78,7 +78,7 @@
             <entry key="index" type="xint" value="2"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 3, Cols: 3"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 3, Cols: 2"/>
             <entry key="port_dir_location" type="xstring" value="port_2"/>
         </config>
         <config key="port_3">
@@ -93,6 +93,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="d15883eb-bbbf-40b9-ae19-3603b63e3be7"/>
+        <entry key="file_store_id" type="xstring" value="23690092-6602-4c63-8cba-44a92840df43"/>
     </config>
 </config>
